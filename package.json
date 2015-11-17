@@ -1,0 +1,19 @@
+{
+  "name": "emedi",
+  "version": "1.0.0",
+  "description": "Medical software ",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "resizable": true,
+    "fullscreen": false,
+    "width": 900,
+    "height": 700
+  },
+  "author": "IBIL Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "materialize-css": "^0.97.1",
+    "nedb": "^1.2.1"
+  }
+}
