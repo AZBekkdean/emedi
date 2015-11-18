@@ -13,6 +13,7 @@
   "author": "IBIL Technologies",
   "license": "ISC",
   "dependencies": {
+    "handlebars": "^4.0.4",
     "materialize-css": "^0.97.1",
     "nedb": "^1.2.1"
   }
