@@ -7,8 +7,8 @@
     "toolbar": false,
     "resizable": true,
     "fullscreen": false,
-    "width": 900,
-    "height": 700
+    "width": 1200,
+    "height": 900
   },
   "author": "IBIL Technologies",
   "license": "ISC",
